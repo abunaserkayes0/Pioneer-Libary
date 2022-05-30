@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "writer": "Waly",
+    "price": "21",
+    "description": "Solving an equation containing variables consists of determining which values of the variables make the equality true. The variables for which the equation has to be solved are also called unknowns, and the values of the unknowns that satisfy the equality are called solutions of the equation. There are two kinds of equations: identities and conditional equations. An identity is true for all values of the variables. A conditional equation is only true for particular values of the variables",
+    "publication": "wordpress.com",
+    "types": "Equation",
+    "rating": 2,
+    "image": "https://i.ibb.co/vZycMB1/6.png"
+  },
+  {
+    "id": 2,
+    "writer": "Wendy",
+    "price": "27",
+    "description": "Mathematics is widely used in science for modeling phenomena. This enables the extraction of quantitative predictions from experimental laws. For example, the movement of planets can be accurately predicted using Newton's law of gravitation combined with mathematical computation. The independence of mathematical truth from any experimentation implies that the accuracy of such predictions depends only on the adequacy of the model for describing the reality. Inaccurate predictions imply the need for improving or changing mathematical models, not that mathematics is wrong in the models themselves.",
+    "publication": "newyorker.com",
+    "types": "Mathematics",
+    "rating": 3,
+    "image": "https://i.ibb.co/9GRt9vv/5.jpg"
+  },
+  {
+    "id": 3,
+    "writer": "Tessa",
+    "price": "29",
+    "description": "Biology is the scientific study of life. It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field. For instance, all organisms are made up of cells that process hereditary information encoded in genes, which can be transmitted to future generations. Another major theme is evolution, which explains the unity and diversity of life. Energy processing is also important to life as it allows organisms to move, grow, and reproduce. Finally, all organisms are able to regulate their own internal environments",
+    "publication": "tiny.cc",
+    "types": "Biology",
+    "rating": 4,
+    "image": "https://i.ibb.co/1KKjq91/4.png"
+  },
+  {
+    "id": 4,
+    "writer": "Coretta",
+    "price": "51",
+    "description": "Technical communicators can create technical information for new products or update existing information. They might research or test a product to interpret and test technical information or specifications. Some tasks include working with or interviewing subject matter experts (SMEs) to extract information and uncover the missing details that a user might need to know.",
+    "publication": "liveinternet.ru",
+    "types": "Bullet",
+    "rating": 3,
+    "image": "https://i.ibb.co/PN2CJXH/3.png"
+  },
+  {
+    "id": 5,
+    "writer": "Ambur",
+    "price": "37",
+    "description": "The Royal Scientific Publications was established in 1992, rated among the top academic publications of Bangladesh. It is a leading institution which aims at providing excellent modern education for the students with a view to equipping them with the skill and knowledge necessary to lead the country holding the nation building desire in mind. It has been acknowledged by the educationists, academicians, doctors, engineers, teachers and the iconic students, that it maintains the highest quality of education thoroughly following the textbooks of Bangladesh Government.",
+    "publication": "slate.com",
+    "types": "BUET Model Test",
+    "rating": 5,
+    "image": "https://i.ibb.co/n1HQV5Q/2.jpg"
+  },
+  {
+    "id": 6,
+    "writer": "Brigham",
+    "price": "49",
+    "description": "Polytechnic Admission Result 2022 has been published. The 3rd Merit List and 2nd Migration Result Published Today on 7 March 2022. Earlier, the 2nd Merit list and 1st Migration Result was Published on 2 March 2022. The 1st Merit List Published on 25 February 2022.Students on 1st merit list should be confirmed their Selection between 25th February to 1st March 2022. Otherwise the Nomination will be cancelled. Admission Opportunity will be given to the Waiting list candidates.",
+    "publication": "infoseek.co.jp",
+    "types": "PolyTechnic",
+    "rating": 3,
+    "image": "https://i.ibb.co/RHffjwj/1.png"
+  }
+]
