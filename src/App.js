@@ -7,7 +7,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import Reviews from "./Components/Reviews/Reviews";
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />}></Route>
