@@ -4,7 +4,7 @@ import useReviews from "../../hooks/useReviews";
 import Review from "../Review/Review";
 import "./Reviews.css";
 const Reviews = () => {
-  const [reviews, setupReviews] = useReviews();
+  const [reviews] = useReviews();
 
   return (
     <div>

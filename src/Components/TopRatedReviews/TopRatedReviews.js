@@ -5,7 +5,7 @@ import useReviews from "../../hooks/useReviews";
 import Review from "../Review/Review";
 import "./TopRatedReviews.css";
 const TopRatedReviews = () => {
-  const [reviews, setReviews] = useReviews();
+  const [reviews] = useReviews();
   const topRatedReviews = reviews.slice(2, 5);
   return (
     <div className="my-5">
