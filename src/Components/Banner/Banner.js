@@ -11,7 +11,7 @@ const Banner = () => {
           className="d-flex align-items-center justify-content-center my-5 py-5 fst-italic"
         >
           <Col lg={8} md={8}>
-            <div className="banner-content">
+            <div className="banner-content mt-5">
               <h1>
                 Think before you speak ?
                 <span className="text-primary">Read before you think</span>

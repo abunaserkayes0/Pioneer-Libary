@@ -59,7 +59,12 @@ const Dashboard = () => {
   return (
     <div>
       <Container>
-        <Row xs={1} md={2} lg={2} className="my-5 g-4">
+        <Row
+          xs={1}
+          md={2}
+          lg={2}
+          className="d-flex justify-content-center my-5 g-4"
+        >
           <Col>
             <h6 className="text-primary text-center fw-bold">
               Month With Sell

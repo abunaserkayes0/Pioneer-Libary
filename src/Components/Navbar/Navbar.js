@@ -1,11 +1,11 @@
 import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import "./Navbar.css";
 const Header = () => {
   return (
     <div>
-      <Navbar  bg="light" variant="light" expand="lg">
+      <Navbar fixed="top" bg="light" variant="light" expand="lg">
         <Container>
           <Link className="text-decoration-none" to="/home">
             <span className="text-black fs-4 fw-bold">Pioneer Library</span>
@@ -13,24 +13,30 @@ const Header = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto text-center">
-              <Link
+              <NavLink
                 className="text-decoration-none mx-2 text-black fs-6 fw-bold"
                 to="/home"
               >
                 Home
-              </Link>
-              <Link
+              </NavLink>
+              <NavLink
                 className="text-decoration-none mx-2 text-black fs-6 fw-bold"
                 to="/reviews"
               >
                 Reviews
-              </Link>
-              <Link
+              </NavLink>
+              <NavLink
                 className="text-decoration-none mx-2 text-black fs-6 fw-bold"
                 to="/dashboard"
               >
                 Dashboard
-              </Link>
+              </NavLink>
+              <NavLink
+                className="text-decoration-none mx-2 text-black fs-6 fw-bold"
+                to="/blog"
+              >
+                Blog
+              </NavLink>
             </Nav>
           </Navbar.Collapse>
         </Container>
